@@ -2,5 +2,6 @@
 
  `micro-btc` is a minimalist js/ts library for Bitcoin
 
-- [micro-btc library](https://github.com/micro-btc/micro-btc)
-- [micro-btc docs](https://github.com/micro-btc/micro-btc-docs)
+- [micro-btc docs/website](https://www.micro-btc.dev/)
+- [micro-btc code on github](https://github.com/micro-btc/micro-btc)
+- [micro-btc docs on github](https://github.com/micro-btc/micro-btc-docs)
